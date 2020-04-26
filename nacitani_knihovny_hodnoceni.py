@@ -1,3 +1,5 @@
+import csv
+
 def main():
 
     print('Prosíme o strpení. Vzhledem k množství dat, se kterými program pracuje, může načítání trvat i několik desítek minut.')
