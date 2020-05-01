@@ -1,3 +1,5 @@
 # Projekt_n_6
-Txt soubory nazvané cvicny_text_1 a cvicny_text_2 jsou soubory, na kterých zkoušíme funkčnost algoritmu. (Obsahují mnohem méně dat než soubory zadaná a lépe si s nimi pracuje)
-Skript zkouska.py obsahuje funkci pro načítání a zatím rozpracovaný algoritmus pro doporučování.
+Všechny skripty, jejichž název začíná nacitani_... jsou postupné pokusy o nahrávání a následné čtení vstupních dat, které se nacházely v csv a txt souborech.
+Všechy skripty zkouska obsahují postupnou úpravu finální funkce.
+Skript finalni_verze obsahuje funkci, která čte data ze vstupních souborů a dále s nimi pracuje. Výstupem funkce jsou filmy, které se nachází v knihovně a které zadaný uživatel ještě neviděl.
+Txt soubory s název cvicny_text jsou mnohem menší soubory, strukturované stejně jako soubory zadané. Vytvořená cvicne texty jsme využili pro test funkcnosti funkce. Kvůli velkému rozsahu vstupních dat trvalo načítání a zpracování mnohdy i desítky minut a občas docházelo i k přeplnění paměti programu.
